@@ -5,8 +5,15 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 Limpieza, higiene y desinfección
 
+    separador
+    #t_3_1.titulo-segundo.color-acento-contenido
+      h2 3.1 Procedimientos
+
+    separador
+    #t_3_2.titulo-segundo.color-acento-contenido
+      h2 3.2 Insumos
 </template>
 
 <script>

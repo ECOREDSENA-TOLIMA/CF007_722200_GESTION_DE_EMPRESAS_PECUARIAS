@@ -5,8 +5,16 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Normatividad seguridad y salud en el trabajo y ambiental
       
+
+    separador
+    #t_1_1.titulo-segundo.color-acento-contenido
+      h2 1.1 Elementos de protección personal 
+
+    separador
+    #t_1_2.titulo-segundo.color-acento-contenido
+      h2 1.2 Tipos de protección personal, características y uso      
 </template>
 
 <script>

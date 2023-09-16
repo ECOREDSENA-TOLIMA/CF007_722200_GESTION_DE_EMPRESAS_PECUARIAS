@@ -4,20 +4,21 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Plan sanitario
+        span 6
+      h1 Limpieza, higiene y desinfección
 
     separador
-    #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1 Características
+    #t_6_1.titulo-segundo.color-acento-contenido
+      h2 6.1 Registros
 
-    
-
+    separador
+    #t_6_2.titulo-segundo.color-acento-contenido
+      h2 6.2 Diligenciamiento
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema6',
   data: () => ({
     // variables de vue
   }),

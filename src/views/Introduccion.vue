@@ -8,7 +8,12 @@
         span
           i.fas.fa-info
       h1 Introducción
-    
+    p.mb-5(data-aos="fade-left") Las empresas pecuarias son una necesidad en todos los países y por eso se trabajará en este contenido la normativa y procedimiento básico, para quienes tienen o quieren tener una empresa de este orden:
+
+    figure
+    .video(data-aos="fade-right")
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/O7eVMn5mxNQ?si=u65wyYL0gvkiWvWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 </template>
 
 <script>
