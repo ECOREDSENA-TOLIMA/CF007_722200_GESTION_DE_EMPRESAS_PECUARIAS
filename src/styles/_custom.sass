@@ -45,3 +45,45 @@
 a.boton
   i, span
     color: $white
+
+.cajon
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &.color-primario
+    background-color: lighten($color-primario, 55%)
+    &:before
+      background-color: $color-primario
+  &.color-secundario
+    background-color: lighten($color-secundario, 5%)
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 30%)
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 35%)
+    &:before
+      background-color: $color-acento-botones    
+
+
+.bloque-texto-d
+  
+  &.color-gris
+    &:before
+      background-color: #E7EAE4
+  
+.text-decor
+  background: $color-acento-contenido
+  border-radius: 0px 20px 0px 20px
+  width: 20%
+  
+  
