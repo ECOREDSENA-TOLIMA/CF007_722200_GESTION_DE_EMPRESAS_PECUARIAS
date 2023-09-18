@@ -130,6 +130,11 @@ export default {
             titulo: 'Clasificación',
             hash: 't_7_1',
           },
+          {
+            numero: '7.2',
+            titulo: 'Técnicas de manejo y disposición',
+            hash: 't_7_2',
+          },
         ],
       },
     ],
