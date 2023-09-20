@@ -49,7 +49,7 @@
           .col-md-6.mb-4.mb-md-0
             h5 Gafas de seguridad
 
-            p Es un elemento que protege los ojos de la proyección de partículas sólidas o líquidas en el manejo de sustancias, químicas, biológicas o corrosivas, están elaboradas en policarbonato, con antiespumante
+            p Es un elemento que protege los ojos de la proyección de partículas sólidas o líquidas en el manejo de sustancias, químicas, biológicas o corrosivas, están elaboradas en policarbonato, con antiespumante.
         
           .col-md-6
             figure
@@ -154,7 +154,7 @@ export default {
       {
         titulo: 'Marco normativo (segunda parte)',
         texto:
-          '●   Resolución 1401 2007, por la cual se reglamenta la investigación de incidentes y accidentes de trabajo. <br> ●   Resolución 1409 2012, por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas. <br> ●   Decreto-Ley 1295 1994, por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales. <br> ●   Resolución 1792 1990, por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido. <br> ●   Resolución 0312 2019, por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST',
+          '●   Resolución 1401 2007, por la cual se reglamenta la investigación de incidentes y accidentes de trabajo. <br> ●   Resolución 1409 2012, por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas. <br> ●   Decreto-Ley 1295 1994, por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales. <br> ●   Resolución 1792 1990, por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido. <br> ●   Resolución 0312 2019, por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.',
         imagen: require('@/assets/curso/temas/tema1/4.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

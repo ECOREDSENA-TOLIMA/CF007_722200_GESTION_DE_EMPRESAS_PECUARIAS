@@ -41,7 +41,7 @@
               h2 Identificar el tipo de contingencia que podría ocurrir en la zona donde se ubica el establecimiento y con qué frecuencia podría presentarse
               p #[b  Sanitarias:] brotes de enfermedades, de notificación, incidencia, patogenicidad, propagación.
               p #[b No sanitarias:] desastres naturales, provocados por el hombre o tecnológicos.
-              p Evitar la instalación de prevenir la construcción de instalaciones en zonas de riesgo a los desastres naturales, tales como inundaciones, derrumbes, incendios, aluviones, tsunamis, etc. O bien sea que no tengan buen acceso y dificulten el tránsito de cualquier tipo de vehículo, afectando el transporte de los animales
+              p Evitar la instalación de prevenir la construcción de instalaciones en zonas de riesgo a los desastres naturales, tales como inundaciones, derrumbes, incendios, aluviones, tsunamis, etc. O bien sea que no tengan buen acceso y dificulten el tránsito de cualquier tipo de vehículo, afectando el transporte de los animales.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -53,7 +53,7 @@
             .p-4
               h2 Considerar salidas de emergencia en la construcción de planteles productivos, que se encuentren bien señalizadas
               p Tener al día los planes y protocolos preventivos, sanitario, de bioseguridad y terapéuticos de los animales.
-              p Almacenar correctamente los productos de la unidad productiva como lo son medicamentos, pesticidas, herbicidas, rodenticidas, tal y como lo contemplan los protocolos de bioseguridad
+              p Almacenar correctamente los productos de la unidad productiva como lo son medicamentos, pesticidas, herbicidas, rodenticidas, tal y como lo contemplan los protocolos de bioseguridad.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema5/4.svg' alt='AvatarTop')
@@ -104,26 +104,26 @@
         .row.mb-5
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Realizar mantenimiento a los vehículos y mantenerlos con suficiente combustible
+              p.text-white Realizar mantenimiento a los vehículos y mantenerlos con suficiente combustible.
 
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Direccionar y tener a la mano equipos y material de primeros auxilios como extintores, camillas, detectores de humo, botiquín, en cada una las instalaciones de la unidad productiva
+              p.text-white Direccionar y tener a la mano equipos y material de primeros auxilios como extintores, camillas, detectores de humo, botiquín, en cada una las instalaciones de la unidad productiva.
           
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Tener como respaldo, generadores eléctricos, que se encuentren en óptimas condiciones
+              p.text-white Tener como respaldo, generadores eléctricos, que se encuentren en óptimas condiciones.
 
     .row.justify-content-center 
       .col
         .row.mb-5
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Mantener en buenas condiciones los sistemas de comunicación como radios, transmisores y celulares
+              p.text-white Mantener en buenas condiciones los sistemas de comunicación como radios, transmisores y celulares.
 
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Los equipos de sacrificio de emergencia deben estar en buenas condiciones y en disposición
+              p.text-white Los equipos de sacrificio de emergencia deben estar en buenas condiciones y en disposición.
           
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
@@ -134,15 +134,15 @@
         .row.mb-5
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Llevar un registro actualizado de los elementos que se encuentran almacenados para la atención de emergencias
+              p.text-white Llevar un registro actualizado de los elementos que se encuentran almacenados para la atención de emergencias.
 
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Almacenar pienso y agua en un lugar idóneo y asegurarse de llevar registro de ellos, fecha de caducidad, así como de entradas y salidas
+              p.text-white Almacenar pienso y agua en un lugar idóneo y asegurarse de llevar registro de ellos, fecha de caducidad, así como de entradas y salidas.
           
           .col-sm-4.col-lg-4.mb-4.mb-lg-0
             .tarjeta--boton.color.p-4(style="background-color:#3B5620; height:100%")
-              p.text-white Realizar convenio con establecimientos que permitan llevar a cabo sacrificios de emergencia de ser necesario cuando se presente algún desastre
+              p.text-white Realizar convenio con establecimientos que permitan llevar a cabo sacrificios de emergencia de ser necesario cuando se presente algún desastre.
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 b. Preparación: 
@@ -163,7 +163,7 @@
             p.mb-0 Socializar y divulgar el plan de contingencia con el personal a través de capacitaciones, simulacros, material  de difusión como folletos, revistas volantes, etc.
 
           .tarjeta.tarjeta--slyder.p-4(style="background-color:#EDF0EB")
-            p.mb-0 Asignar responsables y roles en los eventos de emergencia, quien tomara el liderazgo, que acciones realizara el personal, quien tomara las decisiones y como se ejecutaran
+            p.mb-0 Asignar responsables y roles en los eventos de emergencia, quien tomara el liderazgo, que acciones realizara el personal, quien tomara las decisiones y como se ejecutaran.
 
           .tarjeta.tarjeta--slyder.p-4(style="background-color:#EDF0EB")
             p.mb-0 Establecer equipos de personas para ejecutar por partes el plan de contingencia.
@@ -178,13 +178,13 @@
             p.mb-0 Actualizar periódicamente y tener copias de seguridad en físico y digital de los planes y rutas de evacuación, así como los documentos que hacen parte de los mismos.
 
           .tarjeta.tarjeta--slyder.p-4(style="background-color:#EDF0EB")
-            p.mb-0 Identificar correctamente a los animales  y llevar registros, asegurándose de actualizar continuamente los datos, tener en cuenta cuantos animales hay en la producción y cuantos por cada instalación
+            p.mb-0 Identificar correctamente a los animales  y llevar registros, asegurándose de actualizar continuamente los datos, tener en cuenta cuantos animales hay en la producción y cuantos por cada instalación.
 
           .tarjeta.tarjeta--slyder.p-4(style="background-color:#EDF0EB")
             p.mb-0 El recurso humano siempre debe estar listado y actualizado, teniendo en cuenta  el número de personas por el tipo de proceso.
 
           .tarjeta.tarjeta--slyder.p-4(style="background-color:#EDF0EB")
-            p.mb-0 Identificar fuentes de financiamiento para facilitar la disposición de recursos financieros sin demora
+            p.mb-0 Identificar fuentes de financiamiento para facilitar la disposición de recursos financieros sin demora.
           
           .tarjeta.tarjeta--slyder.p-4(style="background-color:#EDF0EB")
             p.mb-0 Tener en un lugar visible los números de entidades y lugares que puedan atender y ayudar en situaciones de emergencia, además de clinas u hospitales médicos veterinarios, tales como: ICA, Carabineros, Bomberos, Secretarias de Salud, Secretaria de Desarrollo rural, Secretaria de Ambiente y Atención a Desastres, CARS, entre otros.
@@ -209,7 +209,7 @@
             img(src='@/assets/curso/temas/tema5/7.svg' alt='AvatarTop').p-4
           .tarjeta.color-secundario
             .p-4
-              p Dar prioridad al recurso humano f su seguridad, seguidamente ejecutar los protocolos de  seguridad animal y de necesitarse transportar a los animales hacia sectores más seguros
+              p Dar prioridad al recurso humano f su seguridad, seguidamente ejecutar los protocolos de  seguridad animal y de necesitarse transportar a los animales hacia sectores más seguros.
 
       .col-10
         .tarjeta-avatar-b.mb-5
@@ -225,7 +225,7 @@
             img(src='@/assets/curso/temas/tema5/9.svg' alt='AvatarTop').p-4
           .tarjeta.color-secundario
             .p-4
-              p La supervisión de los procedimientos que se llevarán a cabo en ejecución de los protocolos de emergencia serán realizados por un médico veterinario o médico veterinario zootecnista o en su defecto por un profesional con experiencia en el campo 
+              p La supervisión de los procedimientos que se llevarán a cabo en ejecución de los protocolos de emergencia, serán realizados por un médico veterinario o médico veterinario zootecnista o en su defecto por un profesional con experiencia en el campo.
 
       .col-10
         .tarjeta-avatar-b.mb-5
@@ -252,31 +252,31 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/12.svg' alt='AvatarTop')
-        p.text-center Observar los lugares afectados identificando: objetos punzantes, materiales peligrosos, fauna peligrosa, agua contaminada, cadáveres, líneas eléctricas caídas y otros peligros
+        p.text-center Observar los lugares afectados identificando: objetos punzantes, materiales peligrosos, fauna peligrosa, agua contaminada, cadáveres, líneas eléctricas caídas y otros peligros.
 
       .tarjeta(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/13.svg' alt='AvatarTop')
-        p.text-center Prestar atención médica veterinaria a los animales que estén heridos o afectados por el evento de desastre
+        p.text-center Prestar atención médica veterinaria a los animales que estén heridos o afectados por el evento de desastre.
 
       .tarjeta(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/14.svg' alt='AvatarTop')
-        p.text-center Analizar la situación para reconocer avances en el entorno de la resolución de la emergencia
+        p.text-center Analizar la situación para reconocer avances en el entorno de la resolución de la emergencia.
 
       .tarjeta(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/15.svg' alt='AvatarTop')
-        p.text-center Examinar las consecuencias a largo plazo y monitorearlas
+        p.text-center Examinar las consecuencias a largo plazo y monitorearlas.
 
       .tarjeta(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/16.svg' alt='AvatarTop')
-        p.text-center Revisar los animales con precaución y prestar especial atención a su comportamiento, el cual puede haber sido afectado por la situación de desastre
+        p.text-center Revisar los animales con precaución y prestar especial atención a su comportamiento, el cual puede haber sido afectado por la situación de desastre.
 
       .tarjeta(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3

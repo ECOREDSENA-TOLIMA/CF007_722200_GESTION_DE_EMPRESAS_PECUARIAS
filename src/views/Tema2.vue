@@ -67,7 +67,7 @@
           .tarjeta.color-secundario
             .p-4
               h2.text-center Bioseguridad
-              p.text-center Para implementar un programa de bioseguridad efectivo en una producción debe tenerse en cuenta algunos  aspectos técnicos epidemiológicos que deben ser conocidos puesto que varias de las normas de bioseguridad se correlacionan a muchos agentes etiológicos, empero cada uno de ellos tiene diversas particularidades para difundirse, manifestarse, reproducirse y controlarse dentro de la producción
+              p.text-center Para implementar un programa de bioseguridad efectivo en una producción debe tenerse en cuenta algunos  aspectos técnicos epidemiológicos que deben ser conocidos puesto que varias de las normas de bioseguridad se correlacionan a muchos agentes etiológicos, empero cada uno de ellos tiene diversas particularidades para difundirse, manifestarse, reproducirse y controlarse dentro de la producción.
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0

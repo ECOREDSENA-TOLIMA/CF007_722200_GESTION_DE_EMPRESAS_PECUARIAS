@@ -32,8 +32,7 @@
           .bloque-texto-d__autor 
             .h5.mb-0 (Gay et al., 2016).
     
-    p(data-aos="fade-left") Las unidades productivas, constantemente, se ven enfrentadas a un creciente número de factores latentes y no tan visibles que pueden representar algún tipo de riesgo y que pueden causar daño al personal, los animales y en todos los procesos productivos. Estos patógenos pueden afectar a los animales con
-    p.mb-5(data-aos="fade-left") propósitos productivos y que están destinados para la alimentación del ser humano, interfiriendo en cualquier punto de la cadena alimentaria y ocasionando riesgos al consumidor.
+    p(data-aos="fade-left") Las unidades productivas, constantemente, se ven enfrentadas a un creciente número de factores latentes y no tan visibles que pueden representar algún tipo de riesgo y que pueden causar daño al personal, los animales y en todos los procesos productivos. Estos patógenos pueden afectar a los animales con propósitos productivos y que están destinados para la alimentación del ser humano, interfiriendo en cualquier punto de la cadena alimentaria y ocasionando riesgos al consumidor.
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0

@@ -69,6 +69,9 @@
 
     p(data-aos="fade-left").mb-5 En Colombia, de acuerdo con la Resolución 2184 de 2019 del Ministerio del Ambiente y que empezó a regir en el 2021, se implementó el nuevo código de colores blanco, negro y verde para la separación de residuos en la fuente, de la siguiente manera:
 
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 1
+      span #[em Código de colores para separación de residuos en la fuente ]
     .row.justify-content-center.mb-5 
       .col-4
         img(src='@/assets/curso/temas/tema7/8.svg' alt='AvatarTop').mb-3

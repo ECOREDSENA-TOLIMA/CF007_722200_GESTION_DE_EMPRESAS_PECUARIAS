@@ -196,7 +196,7 @@ export default {
       referencia:
         'La Finca de Hoy. (2020). Así debe ser un correcto plan sanitario para el bienestar de sus bovinos. [Video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=uVxB71GZBpw',
+      link: 'https://www.youtube.com/watch?v=uVxB71GZBpw',
     },
     {
       tema: '7. Residuos',
@@ -210,7 +210,7 @@ export default {
       referencia:
         'Avicultores Colombia. (2016). Compostaje de mortalidad. [Video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=fd5mo5Pr1pQ',
+      link: 'https://www.youtube.com/watch?v=fd5mo5Pr1pQ',
     },
     {
       tema: '3. Limpieza, higiene y desinfección',
@@ -224,7 +224,7 @@ export default {
       referencia:
         'Avicultores Colombia. (2016). Manejo de residuos en granjas avícolas. [Video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=3fzop2lQ7Ps',
+      link: 'https://www.youtube.com/watch?v=3fzop2lQ7Ps',
     },
     {
       tema: '7. Residuos',
@@ -238,7 +238,7 @@ export default {
       referencia:
         'Ortega, W. (2019). Clasificación de los residuos sólidos. [Video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=J2lcgWUqS98',
+      link: 'https://www.youtube.com/watch?v=J2lcgWUqS98',
     },
   ],
   glosario: [
