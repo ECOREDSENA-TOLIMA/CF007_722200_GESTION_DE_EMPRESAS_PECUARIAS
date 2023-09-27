@@ -102,13 +102,12 @@
           .tarjeta.color-secundario
             .p-4
               h2.text-center Asesoramiento profesional
-              p.text-center El asesoramiento y el monitoreo constante del médico veterinario responsable de  la producción, no debe limitar sus funciones y deben terminar en el diagrama del esquema sino que debe constituirse en una herramienta de consulta permanente. que contribuya a un estatus  sanitario óptimo y una producción eficiente.
-
+              p.text-center El asesoramiento y el monitoreo constante del médico veterinario responsable de  la producción, no debe limitar sus funciones y deben terminar en el diagrama del esquema sino que debe constituirse en una herramienta de consulta permanente, que contribuya a un estatus  sanitario óptimo y una producción eficiente.
     p.mb-5(data-aos="fade-left") Para complementar la información sobre el plan sanitario, se invita a ver el siguiente vídeo:
 
     figure
       .video(data-aos="fade-right")
-       iframe(width="560" height="315" src="https://www.youtube.com/embed/pedXzm7J7Dc?si=U21AIDBaBO3JjzEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/7ra1cKWHu1M?si=JVMU9FLwYHKpffvv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
 
 
 

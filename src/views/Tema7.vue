@@ -163,7 +163,7 @@
 
     figure
     .video(data-aos="fade-right")
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/O7eVMn5mxNQ?si=u65wyYL0gvkiWvWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/pedXzm7J7Dc?si=_9KkryPRTAGPvRho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
 
          
 </template>

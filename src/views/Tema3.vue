@@ -32,7 +32,7 @@
           img(src='@/assets/curso/temas/tema3/2.svg', alt='Texto que describa la imagen')
       .col-sm-9
         p #[b  Limpieza en seco] 
-        p Eliminar, tanto como se pueda, toda la suciedad y la materia orgánica visible por métodos físicos o mecánicos (estiércol, camas). Se debe hacer con toda la superficie que pueda tener suciedad y ser hace preferiblemente desde arriba hacia abajo incluyendo los mismo artículos con los que se hace la limpieza como raspadores o rastrillos; los vehículos de transporte también se deben trabajar de esta forma.
+        p Eliminar, tanto como se pueda, toda la suciedad y la materia orgánica visible por métodos físicos o mecánicos (estiércol, camas). Se debe hacer con toda la superficie que pueda tener suciedad y ser hace preferiblemente desde arriba hacia abajo incluyendo los mismos artículos con los que se hace la limpieza como raspadores o rastrillos; los vehículos de transporte también se deben trabajar de esta forma.
       .col-10
         <hr style="border:15px;">
 
