@@ -125,17 +125,17 @@
     #t_7_2.titulo-segundo.color-acento-contenido
       h2 7.2 Técnicas de manejo y disposición
 
-    .row.justify-content-center.mt-5.mb-5 
+    .row.justify-content-center.align-items-center
       .col.lg-3
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema7/12.svg', alt='Texto que describa la imagen')
       .col-9
-        p(data-aos="fade-left") El estiércol es la mezcla de la cama de los animales y sus deyecciones sólidas y líquidas. Dadas las condiciones de humedad, composición y carga microbiana sufre una fermentación progresiva en la que se modifica su composición química, la de su p
+        p(data-aos="fade-left") El estiércol es la mezcla de la cama de los animales y sus deyecciones sólidas y líquidas. Dadas las condiciones de humedad, composición y carga microbiana sufre una fermentación progresiva en la que se modifica su composición química, la de su población de microorganismos y su porcentaje de humedad.
         p(data-aos="fade-left") Al principio del proceso se habla de estiércol fresco, y cuando se estabiliza el proceso y las fermentaciones se completan es maduro. El purín es el residuo líquido de las explotaciones ganaderas procedente de los orines del ganado y recogido en un depósito; por el sistema de recogida de los residuos el purín se asocia en exclusiva a las explotaciones porcinas.
 
-    p(data-aos="fade-left").mb-5 Teniendo en cuenta lo anterior y que estos son los principales residuos generados en las producciones pecuarias, se han establecido técnicas para realizar un manejo sustentable ambientalmente y que permita la utilización de estos como subproductos.
+    p.mt-5(data-aos="fade-left").mb-5 Teniendo en cuenta lo anterior y que estos son los principales residuos generados en las producciones pecuarias, se han establecido técnicas para realizar un manejo sustentable ambientalmente y que permita la utilización de estos como subproductos.
 
-    .row.justify-content-center.mb-5 
+    .row.justify-content-center.mb-5.mt-5 
       .col-6
         .bloque-texto-f(style="background-color:#DBF9BD; height:100%").pt-4.px-5.mb-5
           .bloque-texto-f__comillas
@@ -143,7 +143,7 @@
             i.fas.fa-quote-right
           h4.text-regular.bloque-texto-f__texto En primera instancia esta la técnica del compostaje, el cual en términos generales el Compostaje se define como una biotecnia donde es posible ejercer un control sobre los procesos de biodegradación de la materia orgánica. como una “descomposición biológica y estabilización de la materia orgánica, bajo condiciones aeróbicas que permitan un desarrollo de temperaturas termofílicas como consecuencia de una producción biológica de calor, que da un producto final estable, libre de patógenos y semillas de malas hierbas y que aplicado al terreno produce un beneficio” dejando de este un producto final llamado “compost” que es un nutriente para el suelo que mejora la estructura, ayuda a reducir la erosión y ayuda a la absorción de agua y nutrientes por parte de las plantas
           .bloque-texto-f__autor.mb-3
-            h3.mb-0 (Mejia et al. 2015)
+            h3.mb-0 (Mejia et al. 2015).
       .col-6
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema7/13.svg', alt='Texto que describa la imagen')

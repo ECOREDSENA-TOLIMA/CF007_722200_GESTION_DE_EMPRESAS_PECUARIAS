@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Limpieza, higiene y desinfección
+      h1 Información y trazabilidad
     
     p(data-aos="fade-left").mb-5 En el sector agropecuario-alimentario se entiende por trazabilidad la capacidad de rastrear un alimento, un pienso, un animal productor de alimentos o cualquier sustancia que sea usada para ser incorporada a ellos, a través de todas las etapas de producción, elaboración y distribución que forman la cadena alimentaria.
 
@@ -47,7 +47,7 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta" data-aos="fade-down-left")(style="background-color: #DBF9BD")
       .row(titulo="Registro y entrada de animales").justify-content-center
         .col-12.mb-5
-          p Debe contener entre otros: fecha del movimiento , número de identificación del bovino , peso , genero , etapa productiva, motivo del movimiento , dirección del movimiento (entrada o salida) y observaciones, como se indica en la tabla:
+          p Debe contener entre otros: fecha del movimiento, número de identificación del bovino , peso , genero , etapa productiva, motivo del movimiento , dirección del movimiento (entrada o salida) y observaciones, como se indica en la tabla:
         .col-10.mb-5
           .titulo-sexto.color-acento-contenido
             h5 Tabla 2

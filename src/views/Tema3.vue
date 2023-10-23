@@ -43,7 +43,7 @@
       .col-sm-9
         p #[b  Limpieza con líquido o húmeda] 
         p Antes del lavado, se recomienda mojar las superficies de los elementos de aseo y las superficies planas en donde reposa la suciedad, para humedecer esos espacios es fundamental contar con un detergente o jabón adecuado según la suciedad o tipo de superficie para cuidar las películas de material. Posteriormente se limpia con abundante agua que puede ser a presión con una manguera para eliminar el residuo de jabón. El agua a presión por lo general funciona bien en el momento de limpieza aplicando en el remojo y en la finalización para facilitar la labor.
-        p Continúa el proceso de desinfección puesto que la limpieza logra un alto porcentaje de detalle pero el porcentaje faltante se alcanza con el proceso de desinfección que habitualmente se elabora con un líquido o polvo desinfectante que pueda ser usado en el ambiente a limpiar, no se recomienda que se haga con elementos tóxicos o nocivos para la salud, para eso se requiere revisar las fichas técnicas y solicitar apoyo a los comerciales de las marcas para evitar algún percance.
+        p Continúa el proceso de desinfección puesto que la limpieza logra un alto porcentaje de detalle, pero el porcentaje faltante se alcanza con el proceso de desinfección que habitualmente se elabora con un líquido o polvo desinfectante que pueda ser usado en el ambiente a limpiar, no se recomienda que se haga con elementos tóxicos o nocivos para la salud, para eso se requiere revisar las fichas técnicas y solicitar apoyo a los comerciales de las marcas para evitar algún percance.
 
 
       .col-10

@@ -79,7 +79,7 @@
           .tarjeta.color-secundario
             .p-4
               h2.text-center Manejo ambiental y de residuos
-              p.text-center El manejo ambiental en las producciones es muy importante e incluye temas como el ahorro y uso eficiente del agua, manejo de residuos generados,  el uso del suelo,  el control de  malos olores, de excretas y mortalidades, el impacto y  los riesgos,  y la mitigación de los mismos en el ambiente , entre otras cosas.
+              p.text-center El manejo ambiental en las producciones es muy importante e incluye temas como el ahorro y uso eficiente del agua, manejo de residuos generados,  el uso del suelo,  el control de  malos olores, de excretas y mortalidades, el impacto y  los riesgos,  y la mitigación de los mismos en el ambiente, entre otras cosas.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -102,8 +102,8 @@
           .tarjeta.color-secundario
             .p-4
               h2.text-center Asesoramiento profesional
-              p.text-center El asesoramiento y el monitoreo constante del médico veterinario responsable de  la producción, no debe limitar sus funciones y deben terminar en el diagrama del esquema sino que debe constituirse en una herramienta de consulta permanente, que contribuya a un estatus  sanitario óptimo y una producción eficiente.
-    p.mb-5(data-aos="fade-left") Para complementar la información sobre el plan sanitario, se invita a ver el siguiente vídeo:
+              p.text-center El asesoramiento y el monitoreo constante del médico veterinario responsable de  la producción, no debe limitar sus funciones y deben terminar en el diagrama del esquema, sino que debe constituirse en una herramienta de consulta permanente, que contribuya a un estatus  sanitario óptimo y una producción eficiente.
+    p.mb-5(data-aos="fade-left") Para complementar la información sobre el plan sanitario, a continuación, el siguiente vídeo:
 
     figure
       .video(data-aos="fade-right")

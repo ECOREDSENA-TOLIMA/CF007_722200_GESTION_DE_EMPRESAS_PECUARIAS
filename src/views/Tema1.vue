@@ -78,8 +78,8 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Guantes de carnaza
-            p Son diseñados para la protección de las manos, en las diferentes labores que se desempeñan dentro de los galpones, tales como limpieza y desinfección. 
-            p Además, reducen el riesgo de contaminación al evitar el contacto directo con la piel.
+            p Son elementos diseñados para proteger de abrasiones, cortes rozaduras o golpes, además de mejorar el agarre; en las granjas se utilizan para realizar diversas labores como el manejo de los animales y la adecuación de los galpones.
+            //- p Además, reducen el riesgo de contaminación al evitar el contacto directo con la piel.
         
           .col-md-6
             figure
@@ -97,7 +97,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Botas de caucho de caña alta
-            p Para el cuidado de animales enfermos y procedimientos como tratamiento y curaciones, asistencia de partos, vacunación, palpaciones, entre otros.
+            p Las botas deben ser de caña alta, para facilitar los trabajos en condiciones húmedas como el lavado y desinfección del galpón, además que permiten la rápida y efectiva limpieza y desinfección de las mismas, deben tener suela antideslizante para evitar caídas y accidentes.
         
           .col-md-6
             figure
@@ -106,7 +106,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Arneses y líneas de vida
-            p Para trabajar en altura, como por ejemplo, al reparar silos de alimentos, techos de los establos o gaplones, entre otras labores.
+            p Para trabajar en altura, como, por ejemplo, al reparar silos de alimentos, techos de los establos o gaplones, entre otras labores.
         
           .col-md-6
             figure
@@ -115,7 +115,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Overol anti fluidos, lavable, impermeable
-            p Para trabajar en altura, como por ejemplo, al reparar silos de alimentos, techos de los establos o gaplones, entre otras labores.
+            p Este elemento está diseñado para proteger el cuerpo del operario de diferentes sustancias, ya sean químicas, biológicas o físicas, así como de material sólido.
         
           .col-md-6
             figure

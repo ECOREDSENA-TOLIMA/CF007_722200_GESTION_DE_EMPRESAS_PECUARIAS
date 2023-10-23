@@ -169,7 +169,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_007_722200.zip',
+        download: 'downloads/CFA_07_722200.zip',
       },
       {
         icono: 'fas fa-download',
@@ -215,7 +215,7 @@ export default {
     {
       tema: '3. Limpieza, higiene y desinfección',
       referencia:
-        'Eco House Global. (2020). 3R de la ecología - Educación Ambiental Digital. [Video]. YouTube.',
+        'Eco House Global. (2020). ¿Cuáles son las 3R de la Ecología? | Educación Ambiental Digital. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rRCZzrMjiY0',
     },

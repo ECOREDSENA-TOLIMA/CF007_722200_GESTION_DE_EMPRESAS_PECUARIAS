@@ -150,11 +150,59 @@
     p(data-aos="fade-left") Se refiere a las actividades que surgen para la disposición y capacidad de los recursos humanos y materiales, como las comunidades y estructuras, respectivamente, a través de las cuales se pueda originar una acción ágil y eficiente frente una emergencia, siendo el resultado del plan de contingencia generado anteriormente.
     p(data-aos="fade-left").mb-5 Las acciones más importantes para la #[b preparación] se describen a continuación:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-
       .col-lg-6
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema5/5.svg", alt="alt").img400.m-auto
       .col-lg-6
+        .tarjeta.tarjeta--azul.p-4
+          SlyderA(tipo="b")
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 El plan debe guardarse en un lugar de fácil acceso, a prueba de factores que puedan afectarle, tales como polvo, agua, fuego, etc.
+
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Socializar y divulgar el plan de contingencia con el personal a través de capacitaciones, simulacros, material  de difusión como folletos, revistas volantes, etc.
+            
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Asignar responsables y roles en los eventos de emergencia, quien tomara el liderazgo, que acciones realizara el personal, quien tomara las decisiones y como se ejecutaran.
+
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Establecer equipos de personas para ejecutar por partes el plan de contingencia.
+
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Asegurarse de que la señalización y direccionamiento se encuentran siempre en buen estado y son entendibles.
+
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Trazar, poner en un lugar visible y repartir al personal las rutas de evacuación y los puntos de seguridad, asegurándose de que todos tengan conocimiento sobre el mismo. 
+            
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Actualizar periódicamente y tener copias de seguridad en físico y digital de los planes y rutas de evacuación, así como los documentos que hacen parte de los mismos.
+
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Identificar correctamente a los animales  y llevar registros, asegurándose de actualizar continuamente los datos, tener en cuenta cuantos animales hay en la producción y cuantos por cada instalación.
+
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 El recurso humano siempre debe estar listado y actualizado, teniendo en cuenta  el número de personas por el tipo de proceso.
+            
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Identificar fuentes de financiamiento para facilitar la disposición de recursos financieros sin demora.
+
+            .row
+              .col-md-12.mb-4.mb-md-0
+                p.mb-0 Tener en un lugar visible los números de entidades y lugares que puedan atender y ayudar en situaciones de emergencia, además de clinas u hospitales médicos veterinarios, tales como: ICA, Carabineros, Bomberos, Secretarias de Salud, Secretaria de Desarrollo rural, Secretaria de Ambiente y Atención a Desastres, CARS, entre otros.
+
+
+      //-.col-lg-6
         SlyderF.custom.mb-5(columnas="col-lg-12 col-xl-12")
           .tarjeta.tarjeta--slyder.p-4(style="background-color:#EDF0EB")
             p.mb-0 El plan debe guardarse en un lugar de fácil acceso, a prueba de factores que puedan afectarle, tales como polvo, agua, fuego, etc.
